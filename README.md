@@ -1,6 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=소통하는%20개발자&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Joonho%20Jang&fontSize=90)
+
+<div align="center">
+
+## 👋 안녕하세요, 끊임없이 성장하는 개발자 장준호입니다!
+
+**백엔드의 견고함**과 **프론트엔드의 사용자 경험** 모두를 고민하며 개발하고 있습니다.  
+단순히 코드를 짜는 것에 그치지 않고, 효율적인 로직과 깔끔한 UI를 통해  
+사용자에게 가치를 전달하는 개발자가 되는 것이 목표입니다.
 
 
+<br>
 <div align="center">
 
 ### 🛠 Tech Stack 🛠
